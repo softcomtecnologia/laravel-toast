@@ -1,6 +1,6 @@
 {
     "name": "softcomtecnologia/laravel-toast",
-    "description": "Simple toast messages for Laravel 5.",
+    "description": "Simple toast messages for Laravel 7.",
     "homepage": "https://github.com/Grimthorr/laravel-toast",
     "license": "MIT",
     "authors": [
@@ -11,10 +11,10 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
-        "illuminate/support": "6.*",
-        "illuminate/config": "6.*",
-        "illuminate/database": "6.*"
+        "php": ">=7.1",
+        "illuminate/support": "^7.0",
+        "illuminate/config": "^7.0",
+        "illuminate/database": "^7.0"
     },
     "autoload": {
         "psr-4": {
